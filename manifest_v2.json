@@ -24,7 +24,7 @@
       },
       {
         "name": "NEORUAA",
-        "bindABAccount": true
+        "bindABAccount": false
       },
       {
         "name": "无源流沙",
