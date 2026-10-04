@@ -181,12 +181,12 @@
       ]
     },
     "xmb11": {
-      "version": "3.0.1",
-      "file_name": "downloads/resource.bin",
-      "versionCode": 196609,
+      "version": "3.0.2",
+      "file_name": "downloads/米环管理_MB11_3.0.2.bin",
+      "versionCode": 196610,
       "updatelogs": [
         {
-          "version": "3.0.1",
+          "version": "3.0.2",
           "content": "· 适配小米手环11以下固件：\n· 4.100.177"
         },
         {
@@ -196,12 +196,12 @@
       ]
     },
     "xmb11nfc": {
-      "version": "3.0.1",
-      "file_name": "downloads/resource.bin",
-      "versionCode": 196609,
+      "version": "3.0.2",
+      "file_name": "downloads/米环管理_MB11_3.0.2.bin",
+      "versionCode": 196610,
       "updatelogs": [
         {
-          "version": "3.0.1",
+          "version": "3.0.2",
           "content": "· 适配小米手环11以下固件：\n· 4.100.177"
         },
         {
